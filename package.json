@@ -20,8 +20,7 @@
     "cross-env": "^5.0.1",
     "laravel-mix": "^1.0",
     "lodash": "^4.17.4",
-    "vue": "^2.1.10",
-    "webpack": "^3.6.0"
+    "vue": "^2.5.7"
   },
   "dependencies": {
     "arrive": "^2.4.1",
